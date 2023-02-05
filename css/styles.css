@@ -1,0 +1,77 @@
+body {
+  background-color: #E5E0FF ;
+  text-align: center;
+  line-height: 1rem;
+font-family: 'Merriweather',serif;
+
+}
+h2,h3 {
+  font-family: 'Merriweather',serif;
+  font-weight:900;
+  font-style: black;
+
+}
+#firstsection {
+  font-size: 1.2rem;
+}
+
+.nav-link {
+  color: #FFF2F2;
+
+
+}
+.navbar {
+  padding-top: 0;
+}
+
+.container-fluid {
+  background-color: #7286D3;
+  padding-left: 40px;
+  padding-right: 40px;
+padding-top: 20px;
+padding-bottom: 20px;
+
+  font-family: serif;
+
+
+}
+.profil {
+  max-height: 200px;
+  max-width: 200px;
+
+}
+.Website {
+height: 100px;
+width: 100px;
+
+
+
+}
+.bodybuild {
+  height: 100px;
+  width: 100px;
+
+}
+
+
+hr {
+  border-style: dotted;
+  border-width :30%;
+  width: 30%;
+  
+}
+skill-row {
+  width: 50%;
+  margin: auto;
+  margin : 100 auto 100 auto;
+  text-align: left;
+  line-height: 2;
+}
+.communication{
+  background-color: #8EA7E9;
+  color:#FFF2F2;
+}
+.bottom-container {
+  padding-bottom: 0;
+  background-color:#7286D3;
+}
